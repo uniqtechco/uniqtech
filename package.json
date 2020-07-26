@@ -4,7 +4,6 @@
   "description": "Unqitech Homepage",
   "main": "web.js",
   "scripts": {
-    "start":"node /"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -17,5 +16,8 @@
   "dependencies": {},
   "engines": {
     "node": "10.x"
+  },
+  "routes": {
+    "/**": "index.html"
   }
 }

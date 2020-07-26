@@ -1,0 +1,20 @@
+{
+  "name": "unqitech co",
+  "version": "1.0.0",
+  "description": "Unqitech Homepage",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uniqtech",
+    "machine learning",
+    "artificial intelligence"
+  ],
+  "author": "Uniqtech Co.",
+  "license": "all rights reserved",
+  "dependencies": {},
+  "engines": {
+    "node": "10.x"
+  }
+}
